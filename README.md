@@ -1,2 +1,2 @@
-# awtassignment
+# awt assignment
 Nodejs-Mysql- Task
